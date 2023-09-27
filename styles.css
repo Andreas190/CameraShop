@@ -32,6 +32,7 @@
 }
 
 #navbar-logo {
+    font-family:cursive;
     background-color: aquamarine;
     background-image: linear-gradient(to top, #0873ff 0%, #9ff5ff 100%);
     background-size: 100%;
@@ -58,6 +59,7 @@
 }
 
 .navbar-links{
+    font-family:cursive;
     color:azure;
     display: flex;
     align-items: center;
@@ -94,7 +96,7 @@
 }
 
 .product-item-price {
-    font-size: 20px;
+    font-size: 15px;
     margin: 10px 0;
 }
 
@@ -130,7 +132,7 @@
 
 }
 .cart-total-title{
-    font-size: 15px;
+    font-size: 20px;
     margin:10px;
 }
 
